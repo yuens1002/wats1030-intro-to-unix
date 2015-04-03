@@ -1,8 +1,6 @@
 # wats1030-intro-to-unix
 A repository designed to help students walk through a set of introductory Unix/Linux command line exercises.
 
-THIS REPO IS NOT YET READY FOR YOU TO DO WORK. THIS MESSAGE WILL BE REMOVED WHEN THE REPO IS READY.
-
 In order to learn how to use the Unix/Linux command line we will walk through a set of common tasks developers often perform on the command line. Think of this less as a project you are working to complete, and more of an obstacle course meant to help you train and assess your skills. The easier all of these tasks get, the better. No developer should be without basic command line skills.
 
 Please note that there are differences between different types of Linux and between Linux and Unix. This assignment focuses on commands and techniques generally supported across all *nix (Unix and Linux) operating systems.
