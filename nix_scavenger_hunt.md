@@ -23,6 +23,9 @@ and then clone it to your development environment.
 * Another special shortcut in Unix is the `~` location. This indicates the *user root* directory, meaning the top-most directory in the hierarchy that comes below your user account. Use `cd` to move to `~`. *Run `pwd` and paste the response here:*
 * Change directory into the `challenge_files` directory. Use `ls` to find only the files with a `.demo` pattern. *How many files do you find?*
 * Use the `cd` command to move "up" one directory. *Where are you in the filesystem now?*
+* Press the up arrow on your keyboard. *What just happened?*
+* Press the up arrow a few more times. *What do you see?*
+* Run the `history` command. *What do you see?*
 
 ### Observing the System
 

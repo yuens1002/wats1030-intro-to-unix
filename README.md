@@ -7,7 +7,7 @@ In order to learn how to use the Unix/Linux command line we will walk through a 
 
 Please note that there are differences between different types of Linux and between Linux and Unix. This assignment focuses on commands and techniques generally supported across all *nix (Unix and Linux) operating systems.
 
-## Requirements
+## Basic Requirements
 The *basic requirements* for completing this assignment are:
 
 1. Clone your personal fork of this repository to a Unix or Linux development environment (Code Anywhere, local machine, etc.)
@@ -15,5 +15,7 @@ The *basic requirements* for completing this assignment are:
 3. Edit the `nix_scavenger_hunt.md` file to put in your responses to each challenge
 4. Commit and push your changes back to Github for review
 
+## Stretch Requirements
 The *stretch requirements* for this assignment are:
+
 1. Complete the additional files in the `nix_scavenger_hunt_stretch.md` file
